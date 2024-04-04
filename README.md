@@ -167,3 +167,5 @@ fn main() {
 }
 ```
 Not exactly one to one conversion, but still a nice transition.
+
+<!-- Planned package manager named Aurora -->
